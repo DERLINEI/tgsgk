@@ -15,4 +15,4 @@ TapTap社工库：[TapTap社工库telegram](https://t.me/TapSGKbot?start=0d425e)
 
 鸟哥轰炸机：[鸟哥轰炸机](https://t.me/nb3344bot?start=7662313015)
 
-金鼎轰炸机：[金顶轰炸机](https://t.me/jdHappybot?start=7662313015)
+金鼎轰炸机：[金鼎轰炸机](https://t.me/jdHappybot?start=7662313015)
